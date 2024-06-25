@@ -23,8 +23,7 @@ a {
     padding-right: 156px;
 }
 
-.logo,
-.footer-logo {
+.logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     line-height: 1.17;
@@ -40,8 +39,7 @@ a {
     color: #404bbf ;
 }
 
-.logo-span,
-.footer-logo-span {
+.logo-span {
     color: #2E2F42;
 }
 
@@ -249,8 +247,18 @@ a {
 }
 
 .footer-logo {
-    color: #ffffff;
     margin-bottom: 16px;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.footer-logo-span {
+    color: #f4f4fd;
 }
 
 .footer-text {
