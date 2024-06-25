@@ -47,6 +47,7 @@ a {
 
 .navigation {
     display: inline-block;
+    margin-right: 332px;
 }
 
 .nav-list {
@@ -125,6 +126,7 @@ a {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     cursor: pointer;
     font-size: 16px;
+    padding: 16px 32px;
 }
 
 .banner-button:hover,
