@@ -72,6 +72,12 @@ a {
     line-height: 1.5;
 }
 
+.nav-link:hover,
+.nav-link:active,
+.nav-link:focus {
+    color: #404bbf;
+}
+
 .address {
     font-style: normal;
     display: inline-block;
